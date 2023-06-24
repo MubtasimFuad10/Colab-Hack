@@ -1,4 +1,11 @@
-// run this on your Chrome / Browser Console (where Colab is present) 
+//Steps:
+
+//go to colab on chrome browser
+// right click and go to inspect
+// go to console
+// run this to your browser console 
+//and to end this procedure, use the last line of it which is clearInterval(colab)
+
 
 function ConnectButton(){
     console.log("Connect pushed"); 
